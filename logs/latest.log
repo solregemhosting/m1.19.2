@@ -1,0 +1,74 @@
+[21:16:03] [ServerMain/INFO]: Building unoptimized datafixer
+[21:16:05] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:16:10] [ServerMain/INFO]: Loaded 7 recipes
+[21:16:10] [ServerMain/INFO]: Loaded 1179 advancements
+[21:16:13] [Server thread/INFO]: Starting minecraft server version 1.19.2
+[21:16:13] [Server thread/INFO]: Loading properties
+[21:16:13] [Server thread/INFO]: Default game type: SURVIVAL
+[21:16:13] [Server thread/INFO]: Generating keypair
+[21:16:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:16:13] [Server thread/INFO]: Using epoll channel type
+[21:16:14] [Server thread/INFO]: Preparing level "world"
+[21:16:34] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:48] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[21:16:50] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[21:16:50] [Worker-Main-1/INFO]: Preparing spawn area: 85%
+[21:16:51] [Server thread/INFO]: Time elapsed: 16506 ms
+[21:16:51] [Server thread/INFO]: Done (37.208s)! For help, type "help"
+[21:18:47] [User Authenticator #1/INFO]: UUID of player clarinetcombo is bf9e7ebe-6543-4af3-80ba-d549e7450c13
+[21:18:47] [Server thread/INFO]: clarinetcombo[/76.104.177.115:57926] logged in with entity id 162 at (-178.22093206326528, 63.0, 282.73931811692563)
+[21:18:47] [Server thread/INFO]: clarinetcombo joined the game
+[21:32:35] [User Authenticator #2/INFO]: UUID of player Golf0ned is 7dafb90d-7e1b-4982-b17b-f53f92df3dfc
+[21:32:35] [Server thread/INFO]: Golf0ned[/98.59.142.102:60140] logged in with entity id 2129 at (7.5, 90.0, -9.5)
+[21:32:35] [Server thread/INFO]: Golf0ned joined the game
+[21:32:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[21:32:54] [Server thread/INFO]: [clarinetcombo: Made Golf0ned a server operator]
+[21:34:02] [Server thread/INFO]: <clarinetcombo> -173 63 280
+[21:34:18] [Server thread/INFO]: clarinetcombo has made the advancement [A Seedy Place]
+[21:34:34] [Server thread/INFO]: Golf0ned lost connection: Disconnected
+[21:34:34] [Server thread/INFO]: Golf0ned left the game
+[21:34:39] [User Authenticator #3/INFO]: UUID of player Golf0ned is 7dafb90d-7e1b-4982-b17b-f53f92df3dfc
+[21:34:39] [Server thread/INFO]: Golf0ned[/98.59.142.102:60162] logged in with entity id 2760 at (5.192490787916028, 82.0, -10.051019488777348)
+[21:34:39] [Server thread/INFO]: Golf0ned joined the game
+[21:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[21:35:57] [Server thread/INFO]: Stopping the server
+[21:35:57] [Server thread/INFO]: Stopping server
+[21:35:57] [Server thread/INFO]: Saving players
+[21:35:57] [Server thread/INFO]: Saving worlds
+[21:36:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:36:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:36:07] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:36:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:36:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:36:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:36:07] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
